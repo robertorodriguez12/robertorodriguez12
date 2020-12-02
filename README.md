@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/REST%20-201E84.svg?&style=for-the-badge&logo=REST&logoColor=white" />
 </p>
 ![Roberto's github stats](https://github-readme-stats.vercel.app/api?username=robertorodriguez12&show_icons=true&theme=dark)<p/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertorodriguez12&show_icons=true&theme=default)](https://github.com/robertorodriguez12/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertorodriguez12&show_icons=true&theme=default)](https://github.com/robertorodriguez12/github-readme-stats)
 <h2  align="center">Contact Info</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/roberto-j-rodriguez12/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
