@@ -1,6 +1,6 @@
 ### Hi there 👋
 ```
-- 📖  studying at Turing School of Software & Design out of Denver, Colorado (backend program)
+- 📖  Recent Turing School of Software & Design Graduate (backend program)
 - Languages: 
     Fluent: 🇺🇸 English,  🇲🇽 Spanish
 ```
