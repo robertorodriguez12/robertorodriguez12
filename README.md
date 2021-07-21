@@ -1,6 +1,6 @@
 ### Hi there 👋
 ```
-- 📖  Recent Turing School of Software & Design Graduate (backend program)
+- 💻 Full Time Software Engineer
 - Languages: 
     Fluent: 🇺🇸 English,  🇲🇽 Spanish
 ```
@@ -16,7 +16,6 @@
 ### FRAMEWORKS
 <p>
   <img src="https://img.shields.io/badge/rails%20-7119C2.svg?&style=for-the-badge&logo=rails&logoColor=white" />
-  <img src="https://img.shields.io/badge/sinatra%20-201E84.svg?&style=for-the-badge" />
 </p>
 ### TOOLS 
 <p>
