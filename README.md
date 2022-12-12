@@ -41,7 +41,6 @@
   <img src="https://img.shields.io/badge/REST%20-201E84.svg?&style=for-the-badge&logo=REST&logoColor=white" />
 </p>
 
-![Roberto's github stats](https://github-readme-stats.vercel.app/api?username=robertorodriguez12&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertorodriguez12&show_icons=true&theme=default)]
 
 <h2  align="center">Contact Info</h2>
